@@ -5,7 +5,7 @@
 ### ダウンロード
 
 下記サイトからサクラエディタをダウンロードする  
-https://github.com/sakura-editor/sakura/releases
+[https://github.com/sakura-editor/sakura/releases](https://sakura-editor.github.io/)
 
 下の方にスクロールする  
 ![](images/001.png)
